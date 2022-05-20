@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./img/github-header-image.png)
 
 I'm a software developper for a while, passionate about web and mobile technologies like Vue, Angular, Ionic, Flutter...
 

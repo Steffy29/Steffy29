@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 
 - 🔭 I’m currently working on Web applications
-- 🌱 I’m currently learning Go lang and Tiny Go lang to make robot based on Arduino Nano micro-controller
+- 🌱 I’m currently learning Go lang and TinyGo lang to make robot based on Arduino Nano micro-controller
